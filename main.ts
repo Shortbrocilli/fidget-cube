@@ -17,13 +17,7 @@ input.onButtonPressed(Button.A, function () {
     }
 })
 input.onGesture(Gesture.ScreenDown, function () {
-    basic.showLeds(`
-        . . . . .
-        . . . . .
-        . . . . .
-        . . . . .
-        . . . . .
-        `)
+    basic.clearScreen()
 })
 input.onButtonPressed(Button.AB, function () {
     for (let index = 0; index < 10; index++) {

@@ -202,13 +202,7 @@
         # . . . . 
         . # . . # 
         . . # # .
-        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="p$YywVM[eUe!e.xNI@A:" x="57" y="241"><field name="NAME">Gesture.ScreenDown</field><statement name="HANDLER"><block type="device_show_leds" id="n]rvx!)_w0sd=Y!yL{t1"><field name="LEDS">`
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . .
-        `</field></block></statement></block><block type="device_button_event" id="gje;HFAfni7J@-w*t-0B" x="234" y="553"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="9B2((H|OiOH_[o|V==7K"><value name="TIMES"><shadow type="math_whole_number" id="qf|QnjKLcsG?~t~29-Kc"><field name="NUM">5</field></shadow></value><statement name="DO"><block type="device_show_leds" id="4M;8yc#abey,i;.E@b,u"><field name="LEDS">`
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" id="p$YywVM[eUe!e.xNI@A:" x="57" y="241"><field name="NAME">Gesture.ScreenDown</field><statement name="HANDLER"><block type="device_clear_display" id="3c*ND^x3%p]dW!SuW6.("></block></statement></block><block type="device_button_event" id="gje;HFAfni7J@-w*t-0B" x="234" y="553"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="9B2((H|OiOH_[o|V==7K"><value name="TIMES"><shadow type="math_whole_number" id="qf|QnjKLcsG?~t~29-Kc"><field name="NUM">5</field></shadow></value><statement name="DO"><block type="device_show_leds" id="4M;8yc#abey,i;.E@b,u"><field name="LEDS">`
         . . # . . 
         . # # # . 
         # # . # # 
